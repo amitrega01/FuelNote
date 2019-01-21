@@ -1,0 +1,702 @@
+[
+  {
+    "id": "e54a9d94-8bcf-4d63-8061-8515b24be959",
+    "data": "Apr 26, 2017 9:52 AM",
+    "litry": "27.2",
+    "cena": "5.34",
+    "przebieg": 123878
+  },
+  {
+    "id": "966ac237-1d21-4cb6-b2cd-dd26494ec72d",
+    "data": "Feb 8, 2018 11:36 AM",
+    "litry": "22.03",
+    "cena": "5.4",
+    "przebieg": 94116
+  },
+  {
+    "id": "f9a5f1a0-4e04-4571-b9d0-da301b512acb",
+    "data": "May 16, 2018 7:41 AM",
+    "litry": "15.02",
+    "cena": "5.29",
+    "przebieg": 82876
+  },
+  {
+    "id": "15c9802f-9ec2-4164-94ac-fadf19b956e4",
+    "data": "Dec 28, 2016 6:47 PM",
+    "litry": "16.53",
+    "cena": "5.36",
+    "przebieg": 110796
+  },
+  {
+    "id": "8abee685-207c-4c3a-a659-5974f413c812",
+    "data": "Dec 20, 2015 4:59 AM",
+    "litry": "9.11",
+    "cena": "4.52",
+    "przebieg": 81707
+  },
+  {
+    "id": "ebbf2c94-d3b7-4f3d-ba70-52316bd39ec2",
+    "data": "Apr 9, 2014 10:46 PM",
+    "litry": "28.17",
+    "cena": "4.86",
+    "przebieg": 127481
+  },
+  {
+    "id": "2278eea4-0115-4a5f-bf46-f823f9009af2",
+    "data": "Sep 19, 2016 1:19 AM",
+    "litry": "17.48",
+    "cena": "5.18",
+    "przebieg": 156552
+  },
+  {
+    "id": "5c9ea650-4edd-47c8-af24-60656d35a057",
+    "data": "Nov 17, 2016 11:22 PM",
+    "litry": "24.87",
+    "cena": "4.78",
+    "przebieg": 157158
+  },
+  {
+    "id": "211956a4-1613-4fda-a362-ae8a09cfb84c",
+    "data": "Jul 31, 2014 12:44 PM",
+    "litry": "15.28",
+    "cena": "4.75",
+    "przebieg": 83687
+  },
+  {
+    "id": "a001d33f-5056-4059-986c-0cd727666beb",
+    "data": "Dec 6, 2017 12:50 PM",
+    "litry": "29.54",
+    "cena": "5.44",
+    "przebieg": 116793
+  },
+  {
+    "id": "869bf488-01d9-4a53-b695-d4ce834097e1",
+    "data": "May 8, 2015 10:48 PM",
+    "litry": "15.32",
+    "cena": "5.21",
+    "przebieg": 128033
+  },
+  {
+    "id": "72629946-9254-473a-82ca-5622b973ae47",
+    "data": "Feb 21, 2017 3:35 AM",
+    "litry": "14.24",
+    "cena": "4.9",
+    "przebieg": 92954
+  },
+  {
+    "id": "adc39fd7-d176-4ce7-a74e-07b78bb7e31a",
+    "data": "Oct 11, 2015 9:16 AM",
+    "litry": "19.33",
+    "cena": "5.34",
+    "przebieg": 147299
+  },
+  {
+    "id": "c88b6107-0687-4451-97c8-590b66cc7f26",
+    "data": "Jan 31, 2015 2:39 PM",
+    "litry": "16.72",
+    "cena": "5.1",
+    "przebieg": 126390
+  },
+  {
+    "id": "e5caf665-2ae8-4e62-b6fc-ee1e39051d4e",
+    "data": "Aug 14, 2017 10:54 AM",
+    "litry": "28.11",
+    "cena": "5.2",
+    "przebieg": 82186
+  },
+  {
+    "id": "a593d9ca-b1e9-4a65-96e4-1ea6e6407af4",
+    "data": "Dec 31, 2015 12:01 AM",
+    "litry": "8.31",
+    "cena": "4.83",
+    "przebieg": 85580
+  },
+  {
+    "id": "d034a323-d621-4fcf-b161-8bb8b4e6d612",
+    "data": "Dec 14, 2016 7:19 AM",
+    "litry": "26.25",
+    "cena": "5.22",
+    "przebieg": 136695
+  },
+  {
+    "id": "255ee3b5-20ae-4322-a364-a9d69c89b049",
+    "data": "Jan 8, 2014 3:31 AM",
+    "litry": "11.9",
+    "cena": "4.83",
+    "przebieg": 120716
+  },
+  {
+    "id": "77849561-ad5e-4b24-825d-1c668caa6935",
+    "data": "Apr 5, 2018 12:23 PM",
+    "litry": "18.79",
+    "cena": "5.47",
+    "przebieg": 141145
+  },
+  {
+    "id": "57244f87-4bf9-4e80-a789-ae9a4e9dcbcb",
+    "data": "Apr 9, 2018 8:00 AM",
+    "litry": "28.1",
+    "cena": "4.83",
+    "przebieg": 92617
+  },
+  {
+    "id": "1d34fff1-5381-4f3c-9cab-3dfac84bf3e8",
+    "data": "Aug 21, 2017 1:19 AM",
+    "litry": "8.3",
+    "cena": "4.52",
+    "przebieg": 111375
+  },
+  {
+    "id": "c9ddf481-15a5-4b03-944a-b4e0c2e5cf68",
+    "data": "Oct 6, 2017 4:04 AM",
+    "litry": "15.71",
+    "cena": "5.37",
+    "przebieg": 96705
+  },
+  {
+    "id": "6229c63f-b74c-4446-bdc6-98543448da99",
+    "data": "Dec 17, 2018 7:55 AM",
+    "litry": "16.41",
+    "cena": "5.43",
+    "przebieg": 125875
+  },
+  {
+    "id": "553f255d-c3a6-48f9-afa1-ab2baa6bcf32",
+    "data": "Apr 16, 2017 3:39 PM",
+    "litry": "9.33",
+    "cena": "5.49",
+    "przebieg": 155595
+  },
+  {
+    "id": "6dbb1208-18ab-47c4-8d78-611d50661eff",
+    "data": "Jan 5, 2015 8:26 PM",
+    "litry": "28.24",
+    "cena": "4.9",
+    "przebieg": 98169
+  },
+  {
+    "id": "efcbe769-1c9d-4ba7-88c8-7fcce47a9815",
+    "data": "Nov 25, 2018 11:11 PM",
+    "litry": "10.72",
+    "cena": "4.61",
+    "przebieg": 97279
+  },
+  {
+    "id": "6d4df3de-59db-4c37-82b9-bfa3d47f9a6b",
+    "data": "Jun 14, 2014 6:47 PM",
+    "litry": "20.57",
+    "cena": "5.09",
+    "przebieg": 156156
+  },
+  {
+    "id": "68d131d6-d345-41d4-8d05-fa15f888b69f",
+    "data": "Dec 28, 2018 11:07 PM",
+    "litry": "27.52",
+    "cena": "4.91",
+    "przebieg": 99960
+  },
+  {
+    "id": "40468dc8-801d-4cba-a2bd-811f717207b1",
+    "data": "Sep 18, 2015 3:32 PM",
+    "litry": "19.34",
+    "cena": "4.66",
+    "przebieg": 103565
+  },
+  {
+    "id": "fe10fee1-5a9b-4a6c-8688-8641fee30b67",
+    "data": "Nov 20, 2018 7:02 PM",
+    "litry": "24.55",
+    "cena": "4.76",
+    "przebieg": 116605
+  },
+  {
+    "id": "5f21b7f5-642a-47b6-893d-3e1b7f35c2d5",
+    "data": "May 9, 2014 3:40 AM",
+    "litry": "17.86",
+    "cena": "4.6",
+    "przebieg": 121959
+  },
+  {
+    "id": "5f326765-dc8c-4a9f-8832-bc03c871f552",
+    "data": "Apr 1, 2018 3:38 AM",
+    "litry": "19.93",
+    "cena": "4.66",
+    "przebieg": 100368
+  },
+  {
+    "id": "220acd87-2029-4d66-a6e3-f46383ab93dd",
+    "data": "Apr 23, 2017 5:13 PM",
+    "litry": "18.26",
+    "cena": "4.87",
+    "przebieg": 143838
+  },
+  {
+    "id": "84e727c6-a96a-4ed3-8b37-073f6b62c40d",
+    "data": "Apr 5, 2014 11:11 AM",
+    "litry": "23.68",
+    "cena": "4.82",
+    "przebieg": 106319
+  },
+  {
+    "id": "f64b12b5-998e-47fd-b3a0-2415a28bb4c8",
+    "data": "Dec 23, 2018 12:17 AM",
+    "litry": "26.98",
+    "cena": "5.28",
+    "przebieg": 146296
+  },
+  {
+    "id": "328b35e8-9368-42f8-a6ab-783862378931",
+    "data": "Jan 9, 2018 12:57 PM",
+    "litry": "15.14",
+    "cena": "5.48",
+    "przebieg": 102826
+  },
+  {
+    "id": "1d4293ee-f027-4b17-ad05-9737fa0f8949",
+    "data": "Jan 16, 2014 11:48 PM",
+    "litry": "23.53",
+    "cena": "4.58",
+    "przebieg": 92028
+  },
+  {
+    "id": "bbc84e8d-aaf0-4e66-bd60-6461e9aa6064",
+    "data": "Nov 20, 2016 11:59 AM",
+    "litry": "24.23",
+    "cena": "4.7",
+    "przebieg": 110721
+  },
+  {
+    "id": "0b4cf59f-25aa-4d92-832a-9ae04b0619b2",
+    "data": "Jul 28, 2014 2:38 AM",
+    "litry": "26.94",
+    "cena": "5.38",
+    "przebieg": 101708
+  },
+  {
+    "id": "d35c9b82-7bc7-464a-8521-c46d25de9292",
+    "data": "Aug 10, 2018 10:55 PM",
+    "litry": "16.48",
+    "cena": "4.58",
+    "przebieg": 143640
+  },
+  {
+    "id": "05cc619c-03d6-4064-b1fa-1783d7c28618",
+    "data": "Mar 26, 2018 10:44 AM",
+    "litry": "9.29",
+    "cena": "5.21",
+    "przebieg": 97973
+  },
+  {
+    "id": "a05aee42-7023-4a5c-b250-9d150cf00f4b",
+    "data": "Jul 19, 2017 3:08 PM",
+    "litry": "18.99",
+    "cena": "5.21",
+    "przebieg": 86201
+  },
+  {
+    "id": "07de4c6d-4530-4020-afed-24cf125fce13",
+    "data": "Dec 17, 2017 9:36 AM",
+    "litry": "29.64",
+    "cena": "4.74",
+    "przebieg": 85376
+  },
+  {
+    "id": "2ec77d51-7c42-429c-be0c-e9486b272994",
+    "data": "Oct 24, 2014 12:15 AM",
+    "litry": "18.74",
+    "cena": "4.67",
+    "przebieg": 139887
+  },
+  {
+    "id": "a6d7ea36-6e2b-4a78-bb90-e519270b21dc",
+    "data": "Dec 27, 2017 12:37 AM",
+    "litry": "12.48",
+    "cena": "4.82",
+    "przebieg": 113290
+  },
+  {
+    "id": "53c541f8-ec9a-4a8a-9749-0c23779c7a10",
+    "data": "Sep 4, 2018 6:38 AM",
+    "litry": "28.74",
+    "cena": "5.45",
+    "przebieg": 94930
+  },
+  {
+    "id": "e4e618cd-b1d6-47cb-8737-af5f9586991d",
+    "data": "Oct 2, 2015 5:55 AM",
+    "litry": "16.14",
+    "cena": "4.68",
+    "przebieg": 120164
+  },
+  {
+    "id": "ac59f571-4d98-45af-b657-fdd8ac765122",
+    "data": "Aug 11, 2016 11:08 PM",
+    "litry": "23.61",
+    "cena": "5.14",
+    "przebieg": 140822
+  },
+  {
+    "id": "24c7eef8-80cf-4898-93c8-99c3faf648d7",
+    "data": "Oct 17, 2015 9:45 AM",
+    "litry": 10,
+    "cena": "5.38",
+    "przebieg": 115251
+  },
+  {
+    "id": "ec7002cb-a535-4102-b2f8-02d5eb840fef",
+    "data": "Jan 26, 2016 1:07 PM",
+    "litry": "28.39",
+    "cena": "5.18",
+    "przebieg": 133205
+  },
+  {
+    "id": "5226fa5b-0802-47b1-8e13-e5709fb0c46f",
+    "data": "Nov 27, 2015 7:15 AM",
+    "litry": "28.91",
+    "cena": "4.68",
+    "przebieg": 132454
+  },
+  {
+    "id": "21839368-30fa-4099-9cb6-d29c051259c3",
+    "data": "Oct 15, 2014 11:08 PM",
+    "litry": "15.48",
+    "cena": "5.5",
+    "przebieg": 113028
+  },
+  {
+    "id": "3e52a335-a5fd-4316-a667-30caa83288e6",
+    "data": "Feb 2, 2014 7:53 AM",
+    "litry": "15.42",
+    "cena": "4.98",
+    "przebieg": 131210
+  },
+  {
+    "id": "5eabc6de-ef7e-44bb-85f0-2e486aa959a4",
+    "data": "Nov 12, 2017 8:16 AM",
+    "litry": "9.39",
+    "cena": "5.3",
+    "przebieg": 127864
+  },
+  {
+    "id": "e860cd97-fe1a-4e75-bf16-23ff72470021",
+    "data": "Apr 3, 2016 2:22 PM",
+    "litry": "29.18",
+    "cena": "4.81",
+    "przebieg": 127700
+  },
+  {
+    "id": "216545dc-40af-4b59-8cbd-bf1425f04a63",
+    "data": "Jan 8, 2018 8:37 AM",
+    "litry": "12.67",
+    "cena": "5.42",
+    "przebieg": 91965
+  },
+  {
+    "id": "0721e707-7f2e-416b-9354-6e30907847f7",
+    "data": "May 6, 2018 11:11 AM",
+    "litry": "28.09",
+    "cena": "4.64",
+    "przebieg": 158755
+  },
+  {
+    "id": "7dd84086-25a0-464b-bd14-89af48ad2670",
+    "data": "Jun 29, 2017 10:48 AM",
+    "litry": "29.89",
+    "cena": "4.72",
+    "przebieg": 96817
+  },
+  {
+    "id": "058a2429-94e4-40c7-9ca0-3590fdf9b86a",
+    "data": "Jan 18, 2016 10:46 PM",
+    "litry": "17.4",
+    "cena": "4.8",
+    "przebieg": 101187
+  },
+  {
+    "id": "690968c3-af8f-445d-9c37-8f46b33e120e",
+    "data": "Aug 1, 2018 2:44 AM",
+    "litry": "28.45",
+    "cena": "5.41",
+    "przebieg": 101979
+  },
+  {
+    "id": "e2af90ab-7f82-4ab6-a439-e4a50f1caa4f",
+    "data": "Mar 24, 2015 11:39 AM",
+    "litry": "8.61",
+    "cena": "5.36",
+    "przebieg": 101433
+  },
+  {
+    "id": "801f70e8-d175-4c34-8e24-3a438b65c4d5",
+    "data": "Jan 4, 2016 10:27 PM",
+    "litry": "15.18",
+    "cena": "4.53",
+    "przebieg": 84569
+  },
+  {
+    "id": "44d903ec-cb98-4a02-b514-0a717ac6c87b",
+    "data": "May 23, 2014 12:55 PM",
+    "litry": "16.42",
+    "cena": "4.97",
+    "przebieg": 150887
+  },
+  {
+    "id": "aeb6b96e-f5a9-489c-8548-33610f403d6b",
+    "data": "Aug 10, 2016 3:40 AM",
+    "litry": "12.31",
+    "cena": "4.79",
+    "przebieg": 95783
+  },
+  {
+    "id": "219f173e-bda4-40b6-aaa3-7074a37c65af",
+    "data": "May 13, 2015 4:13 AM",
+    "litry": "11.37",
+    "cena": "4.68",
+    "przebieg": 114676
+  },
+  {
+    "id": "b2314606-a2c4-41a1-a2f6-f95a4718cc0f",
+    "data": "Apr 5, 2016 12:37 AM",
+    "litry": "28.46",
+    "cena": "4.63",
+    "przebieg": 99988
+  },
+  {
+    "id": "8cc11a3e-ce15-4101-a04d-7fc008909baf",
+    "data": "Jan 16, 2018 10:45 PM",
+    "litry": "20.8",
+    "cena": "4.89",
+    "przebieg": 152704
+  },
+  {
+    "id": "eb5ae236-61ea-41d1-8644-2c6294686ac4",
+    "data": "Oct 1, 2017 9:20 PM",
+    "litry": "13.48",
+    "cena": "5.1",
+    "przebieg": 97777
+  },
+  {
+    "id": "cee2ce0d-4f48-49c5-8b18-a1213d47f283",
+    "data": "Apr 22, 2017 8:47 PM",
+    "litry": "14.96",
+    "cena": "4.69",
+    "przebieg": 103644
+  },
+  {
+    "id": "5b8d7547-ba59-4841-aaf3-2765470dcc5d",
+    "data": "Dec 23, 2015 2:10 PM",
+    "litry": "17.85",
+    "cena": "5.37",
+    "przebieg": 83629
+  },
+  {
+    "id": "b619614d-24d9-4879-8c4a-5ef37142cef3",
+    "data": "Nov 21, 2014 4:20 AM",
+    "litry": "18.38",
+    "cena": "5.36",
+    "przebieg": 86559
+  },
+  {
+    "id": "d5550f3a-c141-4d44-bb54-fc0efe5bde5d",
+    "data": "Apr 26, 2014 4:08 PM",
+    "litry": "26.92",
+    "cena": "4.75",
+    "przebieg": 151399
+  },
+  {
+    "id": "7e43fad9-a544-4e0d-aa60-bde2a095bac0",
+    "data": "Nov 16, 2015 11:04 PM",
+    "litry": "11.24",
+    "cena": "4.75",
+    "przebieg": 99624
+  },
+  {
+    "id": "fc22ec52-6fcd-48f7-8c16-784e68626e1a",
+    "data": "Jun 8, 2017 12:30 AM",
+    "litry": "29.55",
+    "cena": "5.36",
+    "przebieg": 91996
+  },
+  {
+    "id": "816f4d59-a64e-466c-a4bb-6da8fc2a5eab",
+    "data": "May 6, 2015 10:47 PM",
+    "litry": "20.29",
+    "cena": 5,
+    "przebieg": 106127
+  },
+  {
+    "id": "af915ef6-40e0-4c90-9c0b-9d5d42ccfb4f",
+    "data": "Sep 24, 2014 8:29 PM",
+    "litry": "29.91",
+    "cena": "5.27",
+    "przebieg": 156751
+  },
+  {
+    "id": "dc744b31-d874-4dc4-bf1b-5f23f33662ef",
+    "data": "Aug 31, 2014 8:59 AM",
+    "litry": "22.5",
+    "cena": "4.64",
+    "przebieg": 114426
+  },
+  {
+    "id": "3e56d45a-ccb4-4c9f-8994-bd282fe96fc5",
+    "data": "May 12, 2014 10:41 PM",
+    "litry": "16.23",
+    "cena": "5.35",
+    "przebieg": 126045
+  },
+  {
+    "id": "5df324f1-3f51-4424-9272-931b13782c7a",
+    "data": "Apr 26, 2017 1:51 PM",
+    "litry": "20.48",
+    "cena": "4.73",
+    "przebieg": 94849
+  },
+  {
+    "id": "b2b75e7b-437b-413a-ae98-8cfb4dd2546f",
+    "data": "Jul 21, 2017 3:30 PM",
+    "litry": "23.26",
+    "cena": "4.56",
+    "przebieg": 92059
+  },
+  {
+    "id": "f5b2000c-0993-4883-a01b-f4289a7cad6b",
+    "data": "Jun 21, 2016 3:25 AM",
+    "litry": "9.73",
+    "cena": "4.67",
+    "przebieg": 108892
+  },
+  {
+    "id": "1ee17a92-2a20-4c9e-aff4-7b4623c43a4e",
+    "data": "Jan 20, 2016 11:53 PM",
+    "litry": "27.14",
+    "cena": "4.52",
+    "przebieg": 84024
+  },
+  {
+    "id": "8e80dbc0-4bf6-46fc-abee-0a4f7ee8c53e",
+    "data": "Aug 26, 2018 3:26 PM",
+    "litry": "22.28",
+    "cena": "5.39",
+    "przebieg": 153084
+  },
+  {
+    "id": "6273fdea-66d5-48ee-8817-7506276bd1ae",
+    "data": "Dec 26, 2017 9:45 PM",
+    "litry": "21.33",
+    "cena": "4.93",
+    "przebieg": 88445
+  },
+  {
+    "id": "9d4b6baf-380d-45bc-866f-8aceef0178a4",
+    "data": "Oct 10, 2018 11:27 AM",
+    "litry": "9.15",
+    "cena": "4.78",
+    "przebieg": 119824
+  },
+  {
+    "id": "99e26d51-48ef-4667-b411-56eb701a816b",
+    "data": "Oct 13, 2018 5:57 PM",
+    "litry": "26.5",
+    "cena": "5.36",
+    "przebieg": 150601
+  },
+  {
+    "id": "44a41d32-84f8-4b07-bf11-b63e314fcc46",
+    "data": "May 17, 2018 1:43 AM",
+    "litry": "20.58",
+    "cena": "5.22",
+    "przebieg": 93809
+  },
+  {
+    "id": "fc87ac8a-7861-463d-a78f-1899784aa9e6",
+    "data": "May 13, 2014 5:09 PM",
+    "litry": "8.33",
+    "cena": "5.38",
+    "przebieg": 149603
+  },
+  {
+    "id": "e2745b45-3a92-4a86-90f1-22a99d946a3d",
+    "data": "Jul 6, 2016 9:29 PM",
+    "litry": "11.33",
+    "cena": "5.15",
+    "przebieg": 90604
+  },
+  {
+    "id": "5e7dce51-295e-4425-b527-4b3d498bc752",
+    "data": "May 22, 2016 4:46 PM",
+    "litry": "18.51",
+    "cena": "5.37",
+    "przebieg": 98150
+  },
+  {
+    "id": "f9e9919f-3885-4f30-92ab-a2fa50692089",
+    "data": "Nov 11, 2014 10:17 AM",
+    "litry": "10.03",
+    "cena": "5.43",
+    "przebieg": 83185
+  },
+  {
+    "id": "8ce1ab34-751e-487c-a7b8-a36a4d1605e2",
+    "data": "Jul 23, 2015 5:43 AM",
+    "litry": "21.27",
+    "cena": "5.26",
+    "przebieg": 137712
+  },
+  {
+    "id": "3e577117-dac5-4788-b123-3e03b51e6dea",
+    "data": "Jun 26, 2014 7:33 PM",
+    "litry": "20.28",
+    "cena": "4.65",
+    "przebieg": 143356
+  },
+  {
+    "id": "db1a36f5-4bfc-4236-a168-9f58790ec3d8",
+    "data": "Feb 12, 2015 2:31 AM",
+    "litry": "29.22",
+    "cena": "5.03",
+    "przebieg": 90368
+  },
+  {
+    "id": "69d1c87e-bf59-4e61-8d42-9623c757de04",
+    "data": "Dec 30, 2018 5:07 PM",
+    "litry": "19.86",
+    "cena": "5.19",
+    "przebieg": 155485
+  },
+  {
+    "id": "dce4128c-3d11-4edc-9a97-0b6ff2b1cb84",
+    "data": "Feb 25, 2018 10:06 AM",
+    "litry": "25.71",
+    "cena": "5.08",
+    "przebieg": 84916
+  },
+  {
+    "id": "8c0f9724-d6a1-46d6-9812-08124551cf2e",
+    "data": "Mar 22, 2016 3:18 AM",
+    "litry": "15.79",
+    "cena": "5.49",
+    "przebieg": 144586
+  },
+  {
+    "id": "5e6b8faa-fa6a-4cad-b9f0-baa9b87d5a13",
+    "data": "May 1, 2018 11:18 PM",
+    "litry": "24.23",
+    "cena": "5.23",
+    "przebieg": 154363
+  },
+  {
+    "id": "2004460b-fb70-49b2-8a4c-b1c94f30b742",
+    "data": "Jul 6, 2017 4:04 AM",
+    "litry": "15.37",
+    "cena": "5.43",
+    "przebieg": 126432
+  },
+  {
+    "id": "06d2216e-7ead-40c8-8c62-cd85de6611d5",
+    "data": "Jun 11, 2018 7:20 AM",
+    "litry": "10.4",
+    "cena": "5.33",
+    "przebieg": 87564
+  }
+]
